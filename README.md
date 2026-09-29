@@ -17,7 +17,7 @@ Pode usar um IDE da sua preferencia ou um compilador online.
 
 ````
 def calcular_media(nota1, nota2):
- 8return (nota1 + nota2) / 2
+ return (nota1 + nota2) / 2
 
 print("=== Sistema de Notas do aluno ===")
 
