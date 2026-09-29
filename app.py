@@ -1,21 +1,3 @@
-# Cálculo Média 
-Descrição do meu programa
-
-***
-
-# Tecnoligia Utilizada
-
-```
-python
-```
-***
-
-# Como executar
-Pode usar um IDE da sua preferencia ou um compilador online.
-
-***
-
-````
 def calcular_media(nota1, nota2):
  8return (nota1 + nota2) / 2
 
